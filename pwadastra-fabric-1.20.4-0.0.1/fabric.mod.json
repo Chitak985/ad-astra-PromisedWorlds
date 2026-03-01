@@ -1,0 +1,34 @@
+{
+    "schemaVersion": 1,
+    "id": "pwadastra",
+    "version": "0.0.1",
+    "name": "PromsiedWorldsAdAstra",
+    "description": "Adds planets from the Promised Worlds KSP mod!",
+    "authors": [
+        "Chitak 985 YT"
+    ],
+    "contact": {
+        "homepage": "https://github.com/Chitak985/ad-astra-PromisedWorlds",
+        "issues": "https://github.com/Chitak985/ad-astra-PromisedWorlds/issues",
+		"discord": "https://discord.gg/qgdEU2X6Xj"
+    },
+    "license": "MIT",
+    "icon": "pack.png",
+    "environment": "*",
+    "entrypoints": {},
+    "mixins": [],
+    "depends": {
+        "fabricloader": ">=0.12.7",
+        "fabric-api-base": "*",
+        "minecraft": ">=1.20",
+        "ad_astra": ">=1.15.19"		
+    },
+    "custom": {
+        "modmenu": {
+            "links": {
+                "modmenu.curseforge": "https://www.curseforge.com/minecraft/data-packs/planetsplus",
+                "modmenu.modrinth": "https://modrinth.com/datapack/planetsplus"
+            }
+        }
+    }
+}

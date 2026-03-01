@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Specification-Title: planetsplus
+Specification-Vendor: DeadbushCarrot
+Specification-Version: 0.7.5
+Implementation-Title: planetsplus
+Implementation-Version: 0.7.5
+Implementation-Vendor: DeadbushCarrot
