@@ -1,17 +1,17 @@
 modLoader="lowcodefml"
 loaderVersion="[1,)"
 license="MIT"
-issueTrackerURL="https://github.com/DeadbushCarrot/Planetsplus/issues"
+issueTrackerURL="https://github.com/Chitak985/ad-astra-PromisedWorlds/issues"
 
 [[mods]]
     modId="planetsplus"
-    version="0.7.5"
-    displayName="Planets+"
-	displayURL="https://modrinth.com/user/DeadbushCarrot"
+    version="0.0.1"
+    displayName="Promised Worlds Ad Astra"
+	displayURL="https://github.com/Chitak985/ad-astra-PromisedWorlds"
     logoFile="image.png"
-    authors="DeadbushCarrot: Owner/Dev"
-    credits="DeadbushCarrot: Owner/Dev"
-    description="Adds more planets and moons to explore in Ad Astra!"
+    authors="Chitak985YT: Owner/Dev"
+    credits="Chitak985YT: Owner/Dev"
+    description="Adds planets from the Promised Worlds KSP mod!
 
 [[dependencies.planetsplus]]
     modId = "neoforge"
