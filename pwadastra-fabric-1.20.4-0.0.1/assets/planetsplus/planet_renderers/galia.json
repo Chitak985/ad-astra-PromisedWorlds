@@ -24,43 +24,7 @@
       "movement_type": "TIME_OF_DAY",
       "scale": 8.0,
       "texture": "planetsplus:textures/environment/stars/orange_sun.png"
-	},
-	{
-	  "back_light_color": 5560831,
-      "back_light_scale": 2.8,
-      "blend": false,
-      "global_rotation": [
-        20.0,
-        15.0,
-        70.0
-      ],
-      "local_rotation": [
-        0.0,
-        0.0,
-        0.0
-      ],
-      "movement_type": "TIME_OF_DAY",
-      "scale": 0.65,
-      "texture": "planetsplus:textures/environment/gas_giants/ronxys.png"  	  	  
-    },
-    {
-      "back_light_color": 9854606,
-      "back_light_scale": 13.0,
-      "blend": false,
-      "global_rotation": [
-        70.0,
-        -27.0,
-        39.0
-      ],
-      "local_rotation": [
-        0.0,
-        0.0,
-        0.0
-      ],
-      "movement_type": "TIME_OF_DAY_REVERSED",
-      "scale": 4.0,
-      "texture": "planetsplus:textures/environment/astroids/vox.png"	  	
-    }
+	  }
   ],
   "star_brightness": 0.6,
   "star_colors": [

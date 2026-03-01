@@ -26,24 +26,6 @@
       "texture": "ad_astra:textures/environment/sun.png"
     },
     {
-      "back_light_color": 8906204,
-      "back_light_scale": 15.0,
-      "blend": false,
-      "global_rotation": [
-        60.0,
-        0.0,
-        150.0
-      ],
-      "local_rotation": [
-        0.0,
-        0.0,
-        0.0
-      ],
-      "movement_type": "TIME_OF_DAY",
-      "scale": 7.0,
-      "texture": "planetsplus:textures/environment/moons/diater.png"
-    },
-    {
       "back_light_color": 12669305,
       "back_light_scale": 240.0,
       "blend": false,
@@ -61,23 +43,23 @@
       "scale": 80.0,
       "texture": "planetsplus:textures/environment/planets/jada.png"
     },
-    {		
-      "back_light_color": 12950147,
-      "back_light_scale": 2.5,
+    {
+      "back_light_color": 9854606,
+      "back_light_scale": 0.0,
       "blend": false,
       "global_rotation": [
-        80.0,
-        0.0,
-        30.0
-      ],
-      "local_rotation": [
-        0.0,
-        -5.0,
+        180.0,
+        180.0,
         0.0
       ],
-      "movement_type": "TIME_OF_DAY",
-      "scale": 0.75,
-      "texture": "planetsplus:textures/environment/terrariumearth/jupiter.png"	  
+      "local_rotation": [
+        -40.0,
+        0.0,
+        0.0
+      ],
+      "movement_type": "STATIC",
+      "scale": 256.0,
+      "texture": "planetsplus:textures/environment/rings/dytiona_rings.png"	  
     }
   ],
   "star_brightness": 0.6,

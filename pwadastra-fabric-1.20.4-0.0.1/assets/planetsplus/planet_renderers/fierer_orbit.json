@@ -24,25 +24,7 @@
       "movement_type": "TIME_OF_DAY",
       "scale": 17.0,
       "texture": "planetsplus:textures/environment/stars/orange_sun.png"
-	},
-	{
-	  "back_light_color": 5560831,
-      "back_light_scale": 3.15,
-      "blend": false,
-      "global_rotation": [
-        -40.0,
-        10.0,
-        60.0
-      ],
-      "local_rotation": [
-        0.0,
-        0.0,
-        0.0
-      ],
-      "movement_type": "TIME_OF_DAY_REVERSED",
-      "scale": 0.85,
-      "texture": "planetsplus:textures/environment/gas_giants/ronxys.png"
-    },
+	  },
     {
       "back_light_color": 9320764,
       "back_light_scale": 240.0,
