@@ -30,12 +30,14 @@
 
   "planet.planetsplus.vulcan": "Charr",
   "planet.planetsplus.fierer": "Ovin",
+  "planet.planetsplus.ringetic": "Gurdamma",
   "planet.planetsplus.galia": "Lapat",
   "planet.planetsplus.dytiona": "Axod",
   "planet.planetsplus.jada": "Dorau",
   
   "planet.planetsplus.vulcan_orbit": "Charr orbit",
   "planet.planetsplus.fierer_orbit": "Ovin orbit",
+  "planet.planetsplus.ringetic_orbit": "Gurdamma orbit",
   "planet.planetsplus.galia_orbit": "Lapat orbit",
   "planet.planetsplus.dytiona_orbit": "Axod",
   "planet.planetsplus.jada_orbit": "Dorau orbit",
@@ -50,6 +52,8 @@
   "advancements.kelper_centauri.dytiona_landed.description": "Land on Axod.",
   "advancements.solar_system.jada_landed.title": "Dorau!",
   "advancements.solar_system.jada_landed.description": "Land on Dorau.",
+  "advancements.kelper_10352.ringetic_landed.title": "Gurdamma!",
+  "advancements.kelper_10352.ringetic_landed.description": "Land on Gurdamma.",
   
 
   
@@ -74,7 +78,6 @@
   "planet.planetsplus.evedva": "Evedva",
   "planet.planetsplus.eclipsa": "Eclipsa",
   "planet.planetsplus.atmas": "Atmas",
-  "planet.planetsplus.ringetic": "Ringetic",
   "planet.planetsplus.flade_orbit": "Flade orbit",
   "planet.planetsplus.mixeus_orbit": "Mixeus orbit",
   "planet.planetsplus.dune_orbit": "Dune orbit",
@@ -90,7 +93,6 @@
   "planet.planetsplus.evedva_orbit": "Evedva orbit",
   "planet.planetsplus.eclipsa_orbit": "Eclipsa orbit",
   "planet.planetsplus.atmas_orbit": "Atmas orbit",
-  "planet.planetsplus.ringetic_orbit": "Ringetic orbit",
   "planet.planetsplus.sorea": "Sorea",
   "planet.planetsplus.molvon": "Molvon",
   "planet.planetsplus.sorea_orbit": "Sorea orbit",
@@ -142,7 +144,5 @@
   "advancements.kelper_10352.atmas_crystal_caves_discover.title": "Literally Infinte Amethyst.",
   "advancements.kelper_10352.atmas_crystal_caves_discover.description": "Find the Atmas Crystal Caves.",  
   "advancements.kelper_10352.atmas_friction_caves_discover.title": "Rubbing Alcacore, Do Not Drink.",
-  "advancements.kelper_10352.atmas_friction_caves_discover.description": "Find the Atmas Friction Caves.",  
-  "advancements.kelper_10352.ringetic_landed.title": "Impossible Ring system.",
-  "advancements.kelper_10352.ringetic_landed.title": "Land on Ringetic."
+  "advancements.kelper_10352.atmas_friction_caves_discover.description": "Find the Atmas Friction Caves."
 }

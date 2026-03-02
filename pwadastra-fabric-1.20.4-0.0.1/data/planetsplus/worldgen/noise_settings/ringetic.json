@@ -5,10 +5,10 @@
   "ore_veins_enabled": false,
   "legacy_random_source": false,
   "default_block": {
-    "Name": "ad_astra:mars_stone"
+    "Name": "minecraft:deepslate"
   },
   "default_fluid": {
-    "Name": "minecraft:air"
+    "Name": "minecraft:water"
   },
   "noise": {
     "min_y": -64,
@@ -329,7 +329,7 @@
             "then_run": {
               "type": "minecraft:block",
               "result_state": {
-                "Name": "ad_astra:venus_sand"
+                "Name": "minecraft:water"
               }
             }
           }
@@ -365,7 +365,7 @@
             "then_run": {
               "type": "minecraft:block",
               "result_state": {
-                "Name": "ad_astra:mars_sand" 				
+                "Name": "minecraft:water" 				
               }
             }
           }

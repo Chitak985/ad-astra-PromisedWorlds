@@ -45,6 +45,7 @@
 	"ad_astra:mars_sand",
 	"ad_astra:glacio_stone",
 	"ad_astra:glacio_cobblestone",
-	"ad_astra:permafrost"
+	"ad_astra:permafrost",
+	"minecraft:water"
   ]
 }
