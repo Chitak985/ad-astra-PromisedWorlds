@@ -11,7 +11,7 @@ issueTrackerURL="https://github.com/Chitak985/ad-astra-PromisedWorlds/issues"
     logoFile="image.png"
     authors="Chitak985YT: Owner/Dev"
     credits="Chitak985YT: Owner/Dev"
-    description="Adds planets from the Promised Worlds KSP mod!
+    description="Adds planets from the Promised Worlds KSP mod!"
 
 [[dependencies.planetsplus]]
     modId="forge"
