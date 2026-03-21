@@ -23,7 +23,7 @@
       ],
       "movement_type": "TIME_OF_DAY",
       "scale": 35.0,
-      "texture": "planetsplus:textures/environment/stars/orange_sun.png"
+      "texture": "planetsplus:textures/environment/stars/debdeb1.png"
     }
   ],
   "star_brightness": 0.6,
