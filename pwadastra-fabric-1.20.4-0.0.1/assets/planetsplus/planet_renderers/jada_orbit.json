@@ -22,8 +22,8 @@
         0.0
       ],
       "movement_type": "TIME_OF_DAY",
-      "scale": 6.0,
-      "texture": "ad_astra:textures/environment/sun.png"
+      "scale": 2.0,
+      "texture": "planetsplus:textures/environment/stars/debdeb1.png"
     },
     {
       "back_light_color": 12669305,

@@ -3,7 +3,7 @@
   "gravity": 0.0,
   "oxygen": false,
   "solar_power": 0,
-  "solar_system": "ad_astra:solar_system",
+  "solar_system": "planetsplus:kepler_centauri",
   "temperature": -173,
   "tier": 3
 }

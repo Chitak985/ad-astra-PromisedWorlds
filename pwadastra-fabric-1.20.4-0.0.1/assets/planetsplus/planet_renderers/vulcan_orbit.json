@@ -22,7 +22,7 @@
         0.0
       ],
       "movement_type": "TIME_OF_DAY",
-      "scale": 45.0,
+      "scale": 55.0,
       "texture": "planetsplus:textures/environment/stars/debdeb1.png"
     },
     {

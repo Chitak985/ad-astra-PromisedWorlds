@@ -22,8 +22,8 @@
         0.0
       ],
       "movement_type": "TIME_OF_DAY",
-      "scale": 17.0,
-      "texture": "planetsplus:textures/environment/stars/orange_sun.png"
+      "scale": 8.0,
+      "texture": "planetsplus:textures/environment/stars/debdeb1.png"
 	  },
     {
       "back_light_color": 9320764,

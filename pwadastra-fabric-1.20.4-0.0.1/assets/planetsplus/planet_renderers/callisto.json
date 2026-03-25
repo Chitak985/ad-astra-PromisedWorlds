@@ -22,8 +22,8 @@
         0.0
       ],
       "movement_type": "TIME_OF_DAY",
-      "scale": 5.0,
-      "texture": "ad_astra:textures/environment/sun.png"
+      "scale": 6.0,
+      "texture": "planetsplus:textures/environment/stars/debdeb1.png"
     },
     {
       "back_light_color": 12950147,
@@ -40,62 +40,8 @@
         0.0
       ],
       "movement_type": "TIME_OF_DAY",
-      "scale": 14.0,
-      "texture": "planetsplus:textures/environment/terrariumearth/jupiter.png"
-    },
-    {
-      "back_light_color": 9207408,
-      "back_light_scale": 13.0,
-      "blend": false,
-      "global_rotation": [
-        70.0,
-        3.0,
-        -35.0
-      ],
-      "local_rotation": [
-        0.0,
-        0.0,
-        0.0
-      ],
-      "movement_type": "TIME_OF_DAY",
-      "scale": 4.5,
-      "texture": "planetsplus:textures/environment/moons/ganymede.png"	  	  
-    },
-    {
-      "back_light_color": 14871020,
-      "back_light_scale": 8.0,
-      "blend": false,
-      "global_rotation": [
-        -97.0,
-        -7.0,
-        70.0	
-      ],
-      "local_rotation": [
-        0.0,
-        0.0,
-        0.0
-      ],
-      "movement_type": "TIME_OF_DAY",
-      "scale": 3.5,
-      "texture": "planetsplus:textures/environment/moons/europa.png"	  	  	  
-    },
-    {
-      "back_light_color": 14664021,
-      "back_light_scale": 7.0,
-      "blend": false,
-      "global_rotation": [
-        -102.0,
-        9.0,
-        -120.0
-      ],
-      "local_rotation": [
-        0.0,
-        0.0,
-        0.0
-      ],
-      "movement_type": "TIME_OF_DAY",
-      "scale": 2.5,
-      "texture": "planetsplus:textures/environment/moons/io.png"	  	  	  	  
+      "scale": 50.0,
+      "texture": "planetsplus:textures/environment/moons/ringetic.png"
     }
   ],
   "star_brightness": 0.6,

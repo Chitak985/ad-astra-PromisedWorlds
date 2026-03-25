@@ -1,5 +1,5 @@
 {
-  "custom_clouds": false,
+  "custom_clouds": true,
   "custom_sky": true,
   "custom_weather": false,
   "dimension": "planetsplus:eclipsa_orbit",
@@ -22,8 +22,8 @@
         0.0
       ],
       "movement_type": "TIME_OF_DAY",
-      "scale": 6.0,
-      "texture": "planetsplus:textures/environment/stars/white_sun.png"
+      "scale": 3.0,
+      "texture": "planetsplus:textures/environment/stars/debdeb1.png"
      },
      {
       "back_light_color": 4646655,

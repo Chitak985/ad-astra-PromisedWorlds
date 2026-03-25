@@ -4,7 +4,7 @@
   "orbit": "planetsplus:charon_orbit",
   "oxygen": false,
   "solar_power": 0,
-  "solar_system": "ad_astra:solar_system",
+  "solar_system": "planetsplus:kepler_centauri",
   "temperature": -173,
   "tier": 3
 }
