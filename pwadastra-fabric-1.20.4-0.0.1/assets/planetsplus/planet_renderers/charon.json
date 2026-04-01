@@ -60,24 +60,6 @@
       "movement_type": "TIME_OF_DAY",
       "scale": 40.0,
       "texture": "planetsplus:textures/environment/rings/ringetic_rings.png"		  
-    },
-    {
-      "back_light_color": 16774604,
-      "back_light_scale": 7.0,
-      "blend": false,
-      "global_rotation": [
-        81.0,
-        2.0,
-        35.0
-      ],
-      "local_rotation": [
-        0.0,
-        10.0,
-        0.0
-      ],
-      "movement_type": "TIME_OF_DAY",
-      "scale": 3.75,
-      "texture": "planetsplus:textures/environment/moons/callisto.png"
     }
   ],
   "star_brightness": 0.6,

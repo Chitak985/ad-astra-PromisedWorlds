@@ -1,22 +1,30 @@
 {
-  "planet.planetsplus.diater": "Diater",
+  
   "planet.planetsplus.ceres": "Ceres",
-  "planet.planetsplus.ganymede": "Ganymede",
-  "planet.planetsplus.io": "Io",
   "planet.planetsplus.enceladus": "Enceladus",
   "planet.planetsplus.iapetus": "Iapetus",
   "planet.planetsplus.mimas": "Mimas",
   "planet.planetsplus.titan": "Titan",
-  "planet.planetsplus.pluto": "Pluto",
-  "planet.planetsplus.diater_orbit": "Diater orbit",
   "planet.planetsplus.Ceres_orbit": "Ceres orbit",
-  "planet.planetsplus.ganymede_orbit": "Ganymede orbit",
-  "planet.planetsplus.io_orbit": "Io orbit",
   "planet.planetsplus.enceladus_orbit": "Enceladus orbit",
   "planet.planetsplus.iapetus_orbit": "Iapetus orbit",
   "planet.planetsplus.mimas_orbit": "Mimas orbit",
   "planet.planetsplus.titan_orbit": "Titan orbit",
-  "planet.planetsplus.pluto_orbit": "Pluto orbit",
+
+  
+  "planet.planetsplus.diater": "Dres",
+  "planet.planetsplus.ganymede": "Tylo",
+  "planet.planetsplus.io": "Pol",
+  "planet.planetsplus.pluto": "Eeloo",
+  "planet.planetsplus.diater_orbit": "Eeloo orbit",
+  "planet.planetsplus.pluto_orbit": "Dres orbit",
+  "planet.planetsplus.ganymede_orbit": "Tylo orbit",
+  "planet.planetsplus.io_orbit": "Pol orbit",
+
+  "advancements.solar_system.jupiter.title": "Jool!",
+  "advancements.solar_system.jupiter.description": "Its green",
+  "advancements.solar_system.pluto_landed.title": "Eeloo, at last",
+  "advancements.solar_system.pluto_landed.description": "Land on Eeloo. Congratulations on making this far!",
 
 
 
@@ -107,8 +115,6 @@
   "planet.planetsplus.molvon_orbit": "Molvon orbit",
   "advancements.solar_system.diater_landed.title": "Don't Dia-her",
   "advancements.solar_system.diater_landed.description": "Land on Diater",
-  "advancements.solar_system.jupiter.title": "Radiation Whats That?",
-  "advancements.solar_system.jupiter.description": "Enter the Jovien System",
   "advancements.solar_system.jupiter.ganymede_landed.title": "The Real Titan",
   "advancements.solar_system.jupiter.ganymede_landed.description": "Land on Ganymede",
   "advancements.solar_system.jupiter.io_landed.title": "Landed on 10",
@@ -121,8 +127,6 @@
   "advancements.solar_system.saturn.iapetus_landed.description": "Land on Iapetus. Its like Enceladus but now, WITH ROCKS",
   "advancements.solar_system.saturn.enceladus_landed.title": "Ice Ice Ice Ice Ice Ice Ice Ice Ice",
   "advancements.solar_system.saturn.enceladus_landed.description": "Land on Enceladus. Baby not included!",
-  "advancements.solar_system.pluto_landed.title": "Almost absolute 0",
-  "advancements.solar_system.pluto_landed.description": "Land on Pluto. Ice at this point is just rock!",
   "advancements.kelper_10352.soulfer_landed.title": "Did You Mean? Sulfur",
   "advancements.kelper_10352.soulfer_landed.description": "Land on Soulfer.",
   "advancements.kelper_10352.graze.title": "No Jools here!",

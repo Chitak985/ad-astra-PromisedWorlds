@@ -25,24 +25,6 @@
       "scale": 3.0,
       "texture": "planetsplus:textures/environment/stars/debdeb1.png"
      },
-     {
-      "back_light_color": 4646655,
-      "back_light_scale": 23.0,
-      "blend": false,
-      "global_rotation": [
-        29.0,
-        -7.0,
-        87.0
-      ],
-      "local_rotation": [
-        0.0,
-        0.0,
-        0.0
-      ],
-      "movement_type": "TIME_OF_DAY",
-      "scale": 11.0,
-      "texture": "planetsplus:textures/environment/moons/atmas.png"
-    },
     {
       "back_light_color": 16759115,
       "back_light_scale": 22.0,
@@ -59,7 +41,7 @@
       ],
       "movement_type": "TIME_OF_DAY",
       "scale": 8.0,
-      "texture": "planetsplus:textures/environment/moons/rotate_fix/ringetic.png"	
+      "texture": "planetsplus:textures/environment/moons/ringetic.png"	
     },
     {
       "back_light_color": 9854606,
@@ -78,42 +60,6 @@
       "movement_type": "TIME_OF_DAY",
       "scale": 20.0,
       "texture": "planetsplus:textures/environment/rings/ringetic_rings.png"		  
-    },
-    {
-      "back_light_color": 9854606,
-      "back_light_scale": 1.35,
-      "blend": true,
-      "global_rotation": [
-        45.0,
-        -16.0,
-        180.0
-      ],
-      "local_rotation": [
-        0.0,
-        0.0,
-        0.0
-      ],
-      "movement_type": "TIME_OF_DAY",
-      "scale": 0.5,
-      "texture": "planetsplus:textures/environment/astroids/eclipsa_am1.png"		 
-    },
-    {
-      "back_light_color": 9854606,
-      "back_light_scale": 0.95,
-      "blend": true,
-      "global_rotation": [
-        -57.0,
-        28.0,
-        174.0
-      ],
-      "local_rotation": [
-        0.0,
-        0.0,
-        0.0
-      ],
-      "movement_type": "TIME_OF_DAY",
-      "scale": 0.35,
-      "texture": "planetsplus:textures/environment/astroids/eclipsa_am2.png"		   	  	   	  
     }
   ],
   "star_colors": [

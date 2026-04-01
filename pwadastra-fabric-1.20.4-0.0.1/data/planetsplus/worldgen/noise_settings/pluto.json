@@ -5,7 +5,7 @@
   "ore_veins_enabled": false,
   "legacy_random_source": false,
   "default_block": {
-    "Name": "ad_astra:moon_stone"
+    "Name": "ad_astra:glacio_stone"
   },
   "default_fluid": {
     "Name": "minecraft:air"
@@ -401,7 +401,7 @@
             "then_run": {
               "type": "minecraft:block",
               "result_state": {
-                "Name": "ad_astra:mercury_cobblestone"              						
+                "Name": "ad_astra:glacio_stone"              						
               }
             }
           }
@@ -437,7 +437,7 @@
             "then_run": {
               "type": "minecraft:block",
               "result_state": {
-                "Name": "ad_astra:mercury_cobblestone"              								
+                "Name": "ad_astra:glacio_stone"              								
               }
             }
           }

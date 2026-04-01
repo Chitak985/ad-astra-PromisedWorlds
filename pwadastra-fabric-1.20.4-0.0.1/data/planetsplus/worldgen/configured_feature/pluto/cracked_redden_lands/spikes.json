@@ -35,7 +35,7 @@
 								"to_place": {
 									"type": "minecraft:simple_state_provider",
 									"state": {
-										"Name": "ad_astra:mercury_cobblestone"
+										"Name": "minecraft:packed_ice"
 									}
 								}
 							}

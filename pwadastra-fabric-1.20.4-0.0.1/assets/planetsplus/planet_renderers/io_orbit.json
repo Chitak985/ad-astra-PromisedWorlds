@@ -44,60 +44,6 @@
       "texture": "planetsplus:textures/environment/terrariumearth/jupiter.png"
     },
     {
-      "back_light_color": 9207408,
-      "back_light_scale": 10.0,
-      "blend": false,
-      "global_rotation": [
-        70.0,
-        3.0,
-        -35.0
-      ],
-      "local_rotation": [
-        0.0,
-        0.0,
-        0.0
-      ],
-      "movement_type": "TIME_OF_DAY",
-      "scale": 4.0,
-      "texture": "planetsplus:textures/environment/moons/ganymede.png"	  	  
-    },
-    {
-      "back_light_color": 14871020,
-      "back_light_scale": 8.5,
-      "blend": false,
-      "global_rotation": [
-        -97.0,
-        -7.0,
-        70.0	
-      ],
-      "local_rotation": [
-        0.0,
-        0.0,
-        0.0
-      ],
-      "movement_type": "TIME_OF_DAY",
-      "scale": 3.5,
-      "texture": "planetsplus:textures/environment/moons/europa.png"	  	  	  
-    },
-    {
-      "back_light_color": 9013116,
-      "back_light_scale": 6.5,
-      "blend": false,
-      "global_rotation": [
-        -92.0,
-        10.5,
-        270
-      ],
-      "local_rotation": [
-        0.0,
-        0.0,
-        0.0
-      ],
-      "movement_type": "TIME_OF_DAY",
-      "scale": 2.5,
-      "texture": "planetsplus:textures/environment/moons/callisto.png"	
-    },
-    {
       "back_light_color": 14664021,
       "back_light_scale": 240.0,
       "blend": false,
